@@ -7,7 +7,7 @@ Hii👋🙋‍♂️👋 name is Adedokun, Yusroh Aderayo, mostly referred to as
 <ol>
     <li>📖Reading novels</li>
     <li>🥳Attending tech events</li>
-    <li>Learning new things</li>
+    <li>🤩Learning new things</li>
 </ol>
 
 ### My tech life (Code)
@@ -16,7 +16,7 @@ My dream is to be a software developer👩‍💻 and over the years i've been s
 ### My tech life (No-Code)
 Confused...? Don't be, while joinning different tech communities i got to learn about the NoCode aspect of tech and i delved into it and it's quite interesting.
 <p> Currently, i work as a Content writer for a startup and by the side i'm learning Technical writing</p>
-<p> As much as i find writing fine, i still want to learn coing extensively </p>
+<p> As much as i find writing intresting, i still want to learn coding extensively </p>
 
 #### Contact Me
 <ul>
