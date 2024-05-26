@@ -19,12 +19,12 @@ Confused...? Don't be, while joinning different tech communities i got to learn 
 <p> As much as i find writing fine, i still want to learn coing extensively </p>
 
 #### Contact Me
-<ol>
- <ul> E-mail:<adedokunyusroh@gmail.com>
- <ul> Twitter:<https://x.com/Derayo1114>
- <ul> Instagram:<https://www.instagram.com/adedokun_yusroh_aderayo/>
- <ul> LinkedIn:<https://www.linkedin.com/in/derayo/>
-</ol>
+<ul>
+ <li> E-mail:<adedokunyusroh@gmail.com> </li>
+ <li> Twitter:<https://x.com/Derayo1114> </li>
+ <li> Instagram:<https://www.instagram.com/adedokun_yusroh_aderayo/> </li>
+ <li> LinkedIn:<https://www.linkedin.com/in/derayo/>  </li>
+</ul>
 
 #### 😄 Pronouns:
 She, her
