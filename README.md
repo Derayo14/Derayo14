@@ -2,7 +2,7 @@
 # Welcome to my Github Profile💃💃 
 
 ### About Me
-Hii👋🙋‍♂️👋 name is Adedokun, Yusroh Aderayo, mostly referred to as <em>Derayo</em>, i'm a first-year student of the prestigious 🎓University of Ilorin, Ilorin, Kwara , Nigeria, studying Information Technology.
+Hii👋🙋‍♂️👋 name is Adedokun, Yusroh Aderayo, mostly referred to as <em>Derayo</em>, i'm a second-year student of the prestigious 🎓University of Ilorin, Ilorin, Kwara , Nigeria, studying Information Technology.
 <p> I'm a passionate techie😊 and a avid volunteer, my hobbies include:</p>
 <ol>
     <li>📖Reading novels</li>
